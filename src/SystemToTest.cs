@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CICD_Test.src
 {
-    static class SystemToTest
+    public static class SystemToTest
     {
         public static bool Behaviour1()
         {
